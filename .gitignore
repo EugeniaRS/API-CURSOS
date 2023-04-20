@@ -1,0 +1,3 @@
+# archivos que no subo a tu repostorio
+node_modules
+.env
